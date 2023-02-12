@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+span {
+  display: inline-block;
+}
+img {
+  border-radius: 8px;
+}
+. emoji {
+  font-size: 40px;
+}
